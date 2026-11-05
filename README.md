@@ -1,3 +1,5 @@
+This is a fork of https://github.com/Jojont54/Profilarr-database-french-regex
+
 <p align="center">
   <a href="https://dictionarry.dev">
     <img src="https://img.shields.io/badge/Website-dictionarry.dev-blue" alt="Website">
